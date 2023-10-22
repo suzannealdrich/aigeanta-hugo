@@ -1,9 +1,0 @@
-[submodule "themes/after-dark"]
-	path = themes/after-dark
-	url = https://github.com/suzannealdrich/after-dark.git
-[submodule "themes/hall-of-mirrors"]
-	path = themes/hall-of-mirrors
-	url = https://github.com/suzannealdrich/hall-of-mirrors.git
-[submodule "themes/fractal-forest"]
-	path = themes/fractal-forest
-	url = https://github.com/suzannealdrich/fractal-forest.git
