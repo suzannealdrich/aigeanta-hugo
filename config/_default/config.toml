@@ -1,0 +1,48 @@
+#baseurl = "https://www.aigeanta.net/" # Controls base URL sitewide
+languageCode = "en-US" # Controls site language
+title = "Aigeanta.Net" # Homepage title and page title suffix
+paginate = 10 # Number of posts to show before paginating
+copyright = "Copyright (&copy;)2005&ndash;2023 Aigeanta.Net. Licensed under <a target=\"_blank\" rel=\"external noopener license\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC-BY-SA-4.0</a>." # Optional, remove to suppress copyright notices
+# Controls default theme and theme components
+theme = [
+  "fractal-forest", # OBSD
+  "hall-of-mirrors",
+  "after-dark" # AGPL-3.0-or-later
+]
+disableLiveReload = false # Optional, set true to disable live reload
+enableRobotsTXT = true # Suggested, enable robots.txt file
+sectionPagesMenu = "sections" # Enable menu system for lazy bloggers
+[markup.goldmark.renderer]
+  unsafe = true # Optional, allows HTML inside your CommonMark content
+[markup.tableOfContents]
+  startLevel = 1 # Suggested, draws TOC using all heading levels
+  endLevel = 6 # Suggested, draws TOC using all heading levels
+[markup.highlight]
+  noClasses = false # Suggested, used for custom syntax highlighting
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+[taxonomies]
+  category = "topics"
+  tag = "tags"
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = true
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    enableDNT = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

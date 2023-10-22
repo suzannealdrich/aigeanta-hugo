@@ -1,0 +1,255 @@
+/*!
+ * nirvana.css,v 2.0.0.0 2020/01/20 00:00:00 aigeanta
+*/
+
+
+/*!
+ * Copyright (C) 2019  Josh Habdas <jhabdas@protonmail.com>
+ *
+ * This file is part of After Dark.
+ *
+ * After Dark is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published
+ * by the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * After Dark is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ */
+
+a[rel*="external"]::after {
+  content: " " url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20class='i-external'%20viewBox='0%200%2032%2032'%20width='14'%20height='14'%20fill='none'%20stroke='%23ffcc99'%20stroke-linecap='round'%20stroke-linejoin='round'%20stroke-width='9.38%'%3E%3Cpath%20d='M14%209%20L3%209%203%2029%2023%2029%2023%2018%20M18%204%20L28%204%2028%2014%20M28%204%20L14%2018'/%3E%3C/svg%3E");
+}
+nav a.active {
+  background-color: inherit;
+  color: #fff;
+}
+a[itemprop="url"] {
+  color: #9cf;
+  border-bottom: 1px solid #9cf
+}
+a[itemprop="url"]:hover {
+  color: #fff;
+}
+.muted, .help-block {
+  opacity: 0.70;
+}
+.hack .muted,
+.hack .help-block {
+  color: #e0e0e0;
+}
+.hack.dark table tr:nth-child(odd) td {
+  background-color: #1976d220;
+}
+.hack.dark table tr td a {
+  display: block;
+}
+caption {
+  margin-bottom: 20px;
+  text-align: left;
+}
+body {
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
+
+a:hover {
+  background-color: #f9c;
+  color: #fff
+}
+
+.hack,
+.hack blockquote,
+.hack code,
+.hack em,
+.hack h1,
+.hack h2,
+.hack h3,
+.hack h4,
+.hack h5,
+.hack h6,
+.hack strong {
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif
+}
+
+.form-group.form-success label {
+  color: #9fc!important;
+  border-color: #9fc!important
+}
+
+.form-group.form-warning label {
+  color: #fc9!important;
+  border-color: #fc9!important
+}
+
+.form-group.form-error label {
+  color: #c9f!important;
+  border-color: #c9f!important
+}
+
+.btn-default {
+  color: #fff;
+  background-color: #e0e0e0;
+  border: 1px solid #e0e0e0;
+  color: #333
+}
+
+.btn-default:focus:not(.btn-ghost),
+.btn-default:hover {
+  background-color: #dcdcdc;
+  border-color: #dcdcdc
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #9fc;
+  border: 1px solid #9fc
+}
+
+.btn-success:focus:not(.btn-ghost),
+.btn-success:hover {
+  background-color: #9fc;
+  border-color: #9fc
+}
+
+.btn-success.btn-ghost {
+  border-color: #9fc;
+  color: #9fc
+}
+
+.btn-success.btn-ghost:focus,
+.btn-success.btn-ghost:hover {
+  border-color: #9fc;
+  color: #9fc;
+}
+
+.btn-error {
+  color: #fff;
+  background-color: #c9f;
+  border: 1px solid #c9f
+}
+
+.btn-error:focus:not(.btn-ghost),
+.btn-error:hover {
+  background-color: #c9f;
+  border-color: #c9f
+}
+
+.btn-error.btn-ghost {
+  border-color: #c9f;
+  color: #c9f
+}
+
+.btn-error.btn-ghost:focus,
+.btn-error.btn-ghost:hover {
+  border-color: #c9f;
+  color: #c9f;
+}
+
+.btn-warning {
+  color: #fff;
+  background-color: #fc9;
+  border: 1px solid #fc9
+}
+
+.btn-warning:focus:not(.btn-ghost),
+.btn-warning:hover {
+  background-color: #fc9;
+  border-color: #fc9
+}
+
+.btn-warning.btn-ghost {
+  border-color: #fc9;
+  color: #fc9
+}
+
+.btn-warning.btn-ghost:focus,
+.btn-warning.btn-ghost:hover {
+  border-color: #fc9;
+  color: #fc9;
+}
+
+.btn-info {
+  color: #fff;
+  background-color: #9cf;
+  border: 1px solid #9cf
+}
+
+.btn-info:focus:not(.btn-ghost),
+.btn-info:hover {
+  background-color: #9cf;
+  border-color: #9cf
+}
+
+.btn-info.btn-ghost {
+  border-color: #9cf;
+  color: #9cf
+}
+
+.btn-info.btn-ghost:focus,
+.btn-info.btn-ghost:hover {
+  border-color: #9cf;
+  color: #9cf;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #9cf;
+  border: 1px solid #9cf
+}
+
+.btn-primary:focus:not(.btn-ghost),
+.btn-primary:hover {
+  background-color: #9cf;
+  border-color: #9cf
+}
+
+.btn-primary.btn-ghost {
+  border-color: #9cf;
+  color: #9cf
+}
+
+.btn-primary.btn-ghost:focus,
+.btn-primary.btn-ghost:hover {
+  border-color: #9cf;
+  color: #9cf;
+}
+
+.alert {
+  color: #ccc;
+  border: 1px solid #ccc;
+}
+
+.alert-success {
+  color: #9fc;
+  border-color: #9fc
+}
+
+.alert-error {
+  color: #c9f;
+  border-color: #c9f
+}
+
+.alert-info {
+  color: #9cf;
+  border-color: #9cf
+}
+
+.alert-warning {
+  color: #fc9;
+  border-color: #fc9
+}
+
+.loading {
+  border: 2px solid #c9f;
+}
+
+main {
+  background-image: url('/images/header/aigeanta-background.png');
+  background-repeat: no-repeat;
+  padding-top: 180px;
+}
