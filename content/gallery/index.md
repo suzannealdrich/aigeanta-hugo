@@ -10,7 +10,7 @@ tags = ["art"]
 [[copyright]]
   owner = "aigeanta"
   date = "2023"
-  license = "cc-by-nc-sa-4.0"
+  license = "cc-by-sa-4.0"
 [[resources]]
   src = "**.jpg" # Display any jpeg image in the leaf bundle
   name = "gallery" # Name must include the word 'gallery'

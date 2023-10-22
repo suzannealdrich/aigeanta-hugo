@@ -4,7 +4,7 @@ author:      "aigeanta"
 type:        weblink
 date:        2007-09-10
 changed:     2011-02-02
-draft:       true
+draft:       false
 promote:     false
 sticky:      false
 url:         /weblink/aigeanta/daily-kos

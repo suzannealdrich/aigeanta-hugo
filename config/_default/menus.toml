@@ -8,13 +8,13 @@
   name = "Gallery"
   weight = 2
   identifier = "gallery"
-  url = "/image/"
+  url = "/gallery/"
 
 [[main]]
   name = "Channel"
   weight = 3
   identifier = "channel"
-  url = "/video/"
+  url = "/channel/"
 
 [[main]]
   name = "Links"
@@ -28,3 +28,27 @@
   identifier = "search"
   url = "/search/"
   post = "<svg aria-hidden=\"true\" class=\"i-search\" viewBox=\"0 0 32 32\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"currentcolor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"3\"><circle cx=\"14\" cy=\"14\" r=\"12\" /><path d=\"M23 23 L30 30\" /></svg>"
+
+[[secondary-links]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+
+[[secondary-links]]
+  name = "Poetry"
+  weight = 2
+  identifier = "poetry"
+  url = "/dusty-poetry/"
+
+[[secondary-links]]
+  name = "Theremin"
+  weight = 3
+  identifier = "theremin"
+  url = "/ethereal-expression/"
+
+[[secondary-links]]
+  name = "Webizen"
+  weight = 4
+  identifier = "The Good Webizen"
+  url = "/good-webizen/"

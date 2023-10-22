@@ -1,7 +1,7 @@
 ---
 title:       "Ethereal Expression"
 author:      "aigeanta"
-type:        page
+type:        post
 date:        2005-02-27
 changed:     2011-02-02
 draft:       false
@@ -9,13 +9,12 @@ promote:     false
 sticky:      false
 url:         /ethereal-expression
 aliases:     [ /node/42 ]
-menu:        [ "secondary-links" ]
 topics:      [ "art" ]
 
 # Summary:
 # <h2>The History and Significance of the Theremin</h2> <p>Music is a form of expression which can liberate both musician and listener from the confines of physical reality. An instrument is the mechanical interface between a musician and the tones we hear as music.
-# 
-# 
+#
+#
 
 ---
 <h2>The History and Significance of the Theremin</h2> <p>Music is a form of expression which can liberate both musician and listener from the confines of physical reality. An instrument is the mechanical interface between a musician and the tones we hear as music.

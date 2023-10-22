@@ -1,7 +1,7 @@
 ---
 title:       "Dusty Poetry"
 author:      "aigeanta"
-type:        page
+type:        post
 date:        2005-02-27
 changed:     2011-02-02
 draft:       false
@@ -9,13 +9,12 @@ promote:     false
 sticky:      false
 url:         /dusty-poetry
 aliases:     [ /node/41 ]
-menu:        [ "secondary-links" ]
 topics:      [ "art" ]
 
 # Summary:
 # <a id="Truth" name="Truth"><h2>Truth</h2></a><p>Hint of rumored truth;<br />Lose me in your unrequited chaos<br />Your serene boundary<br />Contains fragmented time<br /><br />At the turn of this mobius life<br />Lies the unanswered question?</p>
-# 
-# 
+#
+#
 
 ---
 <a id="Truth" name="Truth"><h2>Truth</h2></a><p>Hint of rumored truth;<br />Lose me in your unrequited chaos<br />Your serene boundary<br />Contains fragmented time<br /><br />At the turn of this mobius life<br />Lies the unanswered question?</p>
