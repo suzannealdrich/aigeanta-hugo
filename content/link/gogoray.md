@@ -7,7 +7,7 @@ draft = true
 promote = false
 sticky = false
 title = 'Gogoray'
-topics = ['culture']
+categories = ['culture']
 type = 'weblink'
 url = '/weblink/aigeanta/gogoray'
 +++

@@ -7,7 +7,7 @@ draft = false
 promote = false
 sticky = false
 title = 'The Huffington Post'
-topics = ['politics']
+categories = ['politics']
 type = 'weblink'
 url = '/weblink/aigeanta/huffington-post'
 +++

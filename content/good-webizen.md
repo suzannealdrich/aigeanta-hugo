@@ -7,8 +7,8 @@ draft = false
 promote = false
 sticky = false
 title = 'The Good Webizen'
-topics = ['technology']
-type = 'post'
+categories = ['technology']
+type = 'page'
 url = '/good-webizen'
 +++
 <h2>A Guide for Creative Webspinning</h2><p>Attention all sentient beings: the net has revolutionized the way we communicate, but to have a permanent and meaningful existence on the Internet you must become a web citizen, or webizen, by constructively contributing to the world wide web. The good webizen knows how to create and provide useful information on a website, as well as how to filter and consume vast oceans of data from the web.

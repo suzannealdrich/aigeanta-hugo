@@ -7,7 +7,7 @@ draft = false
 promote = false
 sticky = false
 title = 'Alltop'
-topics = ['news']
+categories = ['news']
 type = 'weblink'
 url = '/weblink/aigeanta/alltop'
 +++

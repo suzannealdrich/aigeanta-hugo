@@ -7,8 +7,8 @@ draft = false
 promote = false
 sticky = false
 title = 'Ethereal Expression'
-topics = ['art']
-type = 'post'
+categories = ['art']
+type = 'page'
 url = '/ethereal-expression'
 +++
 <h2>The History and Significance of the Theremin</h2> <p>Music is a form of expression which can liberate both musician and listener from the confines of physical reality. An instrument is the mechanical interface between a musician and the tones we hear as music.

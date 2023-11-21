@@ -6,8 +6,25 @@ images = [
   "/images/header/aigeanta-background.png"
 ] # Suggested, controls default Open Graph images
 related_content_limit = 5 # limit to 5 items maximum site-wide
+
 [layout.post.related]
   limit = 3
+
+[layout.post.featured]
+  limit = 3
+  items = [
+    "not-my-wavelength-risk-perception-sebastopol-wi-fi-debate",
+    "ethereal-expression",
+    "republican-sabotage"
+  ]
+
+[layout.image.featured]
+  limit = 3
+  items = [
+    "creation",
+    "time-ripple",
+    "nostalgia"
+  ]
 
 [layout.menu.main]
   hidden = false # Optional, set false or remove to show section menu
@@ -22,21 +39,25 @@ related_content_limit = 5 # limit to 5 items maximum site-wide
   type = "blog"
   limit = 3 # Optional, set number of items to show from section
   weight = 1
+  thumbs = ["fit", "120x120"] # Optional, thumbnail image processing
 
 [[layout.home.section]]
   type = "story" # Required, name of section to show on homepage
   limit = 3 # Optional, set number of items to show from section
   weight = 2 # Optional, choose layout order for section
+  thumbs = ["fit", "120x120"] # Optional, thumbnail image processing
 
 [[layout.home.section]]
   type = "image" # Required, name of section to show on homepage
   limit = 3 # Optional, set number of items to show from section
   weight = 3 # Optional, choose layout order for section
+  thumbs = ["fit", "120x120"] # Optional, thumbnail image processing
 
 [[layout.home.section]]
   type = "video" # Required, name of section to show on homepage
   limit = 3 # Optional, set number of items to show from section
   weight = 4 # Optional, choose layout order for section
+  thumbs = ["fit", "120x120"] # Optional, thumbnail image processing
 
 [seo.webmaster_verifications]
   google = "" # Optional, see https://search.google.com/search-console

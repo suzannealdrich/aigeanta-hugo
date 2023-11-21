@@ -7,7 +7,7 @@ draft = false
 promote = true
 sticky = false
 title = 'Stuxnet: Digital Industrial Sabotage or Cyber-Weapon of Mass Destruction? '
-topics = ['politics', 'technology']
+categories = ['politics', 'technology']
 type = 'story'
 url = '/story/2011/05/06/stuxnet-digital-industrial-sabotage-or-cyber-weapon-mass-destruction'
 +++

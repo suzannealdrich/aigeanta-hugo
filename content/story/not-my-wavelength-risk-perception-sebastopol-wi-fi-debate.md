@@ -7,7 +7,7 @@ draft = false
 promote = true
 sticky = false
 title = 'Not On My WaveLength: Risk Perception & The Sebastopol Wi-Fi Debate'
-topics = ['politics', 'technology', 'science']
+categories = ['politics', 'technology', 'science']
 type = 'story'
 url = '/story/2011/03/22/not-my-wavelength-risk-perception-sebastopol-wi-fi-debate'
 +++

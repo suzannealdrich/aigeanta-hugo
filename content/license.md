@@ -6,7 +6,7 @@ draft = false
 promote = false
 sticky = false
 title = 'License'
-topics = ['general']
+categories = ['general']
 type = 'license'
 url = '/license'
 +++

@@ -7,7 +7,7 @@ draft = false
 promote = false
 sticky = false
 title = 'Google'
-topics = ['technology']
+categories = ['technology']
 type = 'weblink'
 url = '/weblink/aigeanta/google'
 +++

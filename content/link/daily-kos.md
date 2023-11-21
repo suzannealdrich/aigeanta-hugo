@@ -7,7 +7,7 @@ draft = false
 promote = false
 sticky = false
 title = 'Daily Kos'
-topics = ['politics']
+categories = ['politics']
 type = 'weblink'
 url = '/weblink/aigeanta/daily-kos'
 +++

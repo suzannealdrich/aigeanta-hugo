@@ -22,7 +22,7 @@ sectionPagesMenu = "sections" # Enable menu system for lazy bloggers
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 [taxonomies]
-  category = "topics"
+  category = "categories"
   tag = "tags"
 [privacy]
   [privacy.disqus]

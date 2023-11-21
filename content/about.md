@@ -3,7 +3,7 @@ aliases = ['/node/1']
 date = '2007-05-29'
 description = 'About Aigeanta.Net'
 title = 'About'
-topics = ['general']
+categories = ['general']
 type = 'about'
 
 [schema]

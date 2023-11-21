@@ -6,7 +6,7 @@ draft = false
 promote = true
 sticky = false
 title = "Debating Executive Control of the Internet: A Critical Ethical Analysis of the 'Kill Switch' Bill"
-topics = ['politics', 'technology']
+categories = ['politics', 'technology']
 type = 'story'
 url = '/story/2011/03/22/debating-executive-control-internet-critical-ethical-analysis-kill-switch-bill'
 +++

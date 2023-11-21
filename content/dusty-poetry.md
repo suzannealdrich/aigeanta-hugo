@@ -7,8 +7,8 @@ draft = false
 promote = false
 sticky = false
 title = 'Dusty Poetry'
-topics = ['art']
-type = 'post'
+categories = ['art']
+type = 'page'
 url = '/dusty-poetry'
 +++
 <a id="Truth" name="Truth"><h2>Truth</h2></a><p>Hint of rumored truth;<br />Lose me in your unrequited chaos<br />Your serene boundary<br />Contains fragmented time<br /><br />At the turn of this mobius life<br />Lies the unanswered question?</p>

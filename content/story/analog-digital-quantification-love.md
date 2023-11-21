@@ -7,7 +7,7 @@ draft = false
 promote = true
 sticky = false
 title = 'Analog to Digital: The Quantification of Love'
-topics = ['technology', 'culture']
+categories = ['technology', 'culture']
 type = 'story'
 url = '/story/2011/05/10/analog-digital-quantification-love'
 +++
