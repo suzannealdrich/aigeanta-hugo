@@ -5,24 +5,6 @@
   url = "/"
 
 [[main]]
-  name = "Gallery"
-  weight = 2
-  identifier = "gallery"
-  url = "/gallery/"
-
-[[main]]
-  name = "Channel"
-  weight = 3
-  identifier = "channel"
-  url = "/channel/"
-
-[[main]]
-  name = "Links"
-  weight = 4
-  identifier = "links"
-  url = "/link/"
-
-[[main]]
   name = "Search"
   weight = 5
   identifier = "search"

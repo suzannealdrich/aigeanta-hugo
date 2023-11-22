@@ -10,14 +10,6 @@ related_content_limit = 5 # limit to 5 items maximum site-wide
 [layout.post.related]
   limit = 3
 
-[layout.post.featured]
-  limit = 3
-  items = [
-    "not-my-wavelength-risk-perception-sebastopol-wi-fi-debate",
-    "ethereal-expression",
-    "republican-sabotage"
-  ]
-
 [layout.image.featured]
   limit = 3
   items = [

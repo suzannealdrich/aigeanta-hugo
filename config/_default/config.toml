@@ -1,4 +1,4 @@
-#baseurl = "https://www.aigeanta.net/" # Controls base URL sitewide
+baseurl = "/" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
 title = "Aigeanta.Net" # Homepage title and page title suffix
 paginate = 10 # Number of posts to show before paginating
@@ -11,7 +11,7 @@ theme = [
 ]
 disableLiveReload = false # Optional, set true to disable live reload
 enableRobotsTXT = true # Suggested, enable robots.txt file
-sectionPagesMenu = "sections" # Enable menu system for lazy bloggers
+sectionPagesMenu = "" # Enable menu system for lazy bloggers
 [markup.goldmark.renderer]
   unsafe = true # Optional, allows HTML inside your CommonMark content
 [markup.tableOfContents]
