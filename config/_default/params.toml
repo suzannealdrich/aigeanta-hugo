@@ -1,7 +1,7 @@
 description = "Hope of Survival" # Suggested, controls default description meta
 author = "Aigeanta" # Optional, controls author name display on posts
 hide_author = false # Optional, set true to hide author name on posts
-disable_csp = true # Optional, set true to disable content security policy
+disable_csp = false # Optional, set true to disable content security policy
 images = [
   "/images/header/aigeanta-background.png"
 ] # Suggested, controls default Open Graph images
