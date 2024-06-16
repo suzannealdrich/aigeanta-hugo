@@ -29,7 +29,7 @@ sectionPagesMenu = "" # Enable menu system for lazy bloggers
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = true
-    disable = true
+    disable = false
     respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
